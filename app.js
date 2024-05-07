@@ -59,6 +59,21 @@ const h2  = document.querySelector(`.head2`)
 
 // Answer No 2
 
+// const obj =[
+//     {
+//         name: `Muhammad Hamza`,
+//         email: `hamzaabro683@gmail.com`,
+//         password: `hamzaabro0123`,
+//         age: 18,
+//         gender: `male`,
+//         city: `Karachi`,
+//         country: `Pakistan`
 
+//     }
+// ]
+// console.log(obj[0].age);
+// console.log(obj[0].country);
+// console.log(obj[0].firstName);
+// console.log(obj[0].lastName);
 
 // Answer No 2
